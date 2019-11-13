@@ -1,5 +1,5 @@
 # Windows-Hack-Code
- windows hack 编程技巧及通用模块  觉得有用就✨一下吧 ^ ^
+ windows hack (C/C++)编程技巧及通用模块  觉得有用就✨一下吧 ^ ^
 
  更新记录：
 
